@@ -1,0 +1,7 @@
+#A00463084 - FRANCIS ALEX KUZHIPPALLIL
+
+Public int addition (int a,int b) {
+
+	return a+b;
+
+}
