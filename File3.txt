@@ -5,3 +5,11 @@ Public int maxval (int a,int b) {
 	return Math.max(a,b);
 
 }
+
+#A00467755 - CHAN KIN WA
+
+Public int avgval (int a,int b) {
+
+	return Math.avg(a,b);
+
+}

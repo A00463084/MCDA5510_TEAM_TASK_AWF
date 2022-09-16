@@ -5,3 +5,11 @@ Public int addition (int a,int b) {
 	return a+b;
 
 }
+
+#A00467755 - CHAN KIN WA
+
+Public int subtraction (int a,int b) {
+
+	return a-b;
+
+}
