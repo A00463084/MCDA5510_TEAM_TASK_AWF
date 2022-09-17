@@ -12,6 +12,8 @@ Public int subtraction (int a,int b) {
 
 	return a-b;
 
+}
+
 #A00455849 - Ajay Jain
 
 Public int multiply (int a,int b) {
